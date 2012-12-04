@@ -1,0 +1,40 @@
+-Characters
+	-PlayerID
+	-ID
+	-API_key
+	-vCode
+
+-Killmails
+	-ID
+	-VictimID
+	-KillerIDs
+	-ModuleIDs
+	-DamageDone
+	-SolarSystem
+	-Timestamp
+
+-DroppedModules
+	-ID
+	-Position
+	-ModuleID
+	-Price
+	-Amount
+	-Destroyed
+
+-Killers
+	-ID
+	-Ship
+	-Module
+	-Damage
+	-PlayerID
+
+-Victims
+	-ID
+	-Ship
+	-PlayerID
+	
+-Players
+	-ID
+	-Name
+	-Corporation
+	-Alliance

@@ -1,0 +1,147 @@
+<mockup version="1.0" skin="sketch" measuredW="1420" measuredH="739" mockupW="655" mockupH="600">
+  <controls>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::Canvas" x="830" y="139" w="360" h="600" measuredW="100" measuredH="70" zOrder="14" locked="false" isInGroup="-1">
+      <controlProperties>
+        <backgroundAlpha>0</backgroundAlpha>
+      </controlProperties>
+    </control>
+    <control controlID="7" controlTypeID="com.balsamiq.mockups::Component" x="830" y="164" w="360" h="48" measuredW="360" measuredH="48" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/Android%204%20Controls.bmml#ga-action-bar</src>
+      </controlProperties>
+    </control>
+    <control controlID="8" controlTypeID="com.balsamiq.mockups::Component" x="830" y="139" w="360" h="25" measuredW="360" measuredH="25" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/Android%204%20Controls.bmml#ga-navbar1</src>
+      </controlProperties>
+    </control>
+    <control controlID="11" controlTypeID="com.balsamiq.mockups::Component" x="1070" y="173" w="70" h="27" measuredW="70" measuredH="27" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <override controlID="0" x="0" y="0" w="-1" h="-1">
+          <text>Refresh</text>
+        </override>
+        <src>./assets/Android%204%20Controls.bmml#ga-button</src>
+      </controlProperties>
+    </control>
+    <control controlID="12" controlTypeID="com.balsamiq.mockups::Component" x="1140" y="238" w="48" h="48" measuredW="48" measuredH="48" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/Android%204%20Controls.bmml#ga-contact-sm-focused</src>
+      </controlProperties>
+    </control>
+    <control controlID="13" controlTypeID="com.balsamiq.mockups::Tooltip" x="1175" y="238" w="-1" h="-1" measuredW="94" measuredH="33" zOrder="17" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Shiptype</text>
+        <tooltipDirection>SW</tooltipDirection>
+      </controlProperties>
+    </control>
+    <control controlID="14" controlTypeID="com.balsamiq.mockups::Arrow" x="1119" y="164" w="-1" h="-1" measuredW="150" measuredH="100" zOrder="15" locked="false" isInGroup="-1">
+      <controlProperties>
+        <direction>bottom</direction>
+        <leftArrow>false</leftArrow>
+        <rightArrow>true</rightArrow>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="15" controlTypeID="com.balsamiq.mockups::Label" x="1269" y="158" w="-1" h="-1" measuredW="151" measuredH="21" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Red%20for%20loss%2C%20green%20for%20kill</text>
+      </controlProperties>
+    </control>
+    <control controlID="16" controlTypeID="com.balsamiq.mockups::Label" x="830" y="212" w="360" h="22" measuredW="92" measuredH="21" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <color>6710886</color>
+        <text>KillboardDroid</text>
+      </controlProperties>
+    </control>
+    <control controlID="17" controlTypeID="com.balsamiq.mockups::HRule" x="830" y="234" w="360" h="-1" measuredW="100" measuredH="5" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>3355443</color>
+      </controlProperties>
+    </control>
+    <control controlID="18" controlTypeID="__group__" x="830" y="239" w="360" h="49" measuredW="360" measuredH="49" zOrder="7" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::HRule" x="0" y="44" w="360" h="-1" measuredW="100" measuredH="5" zOrder="0" locked="false" isInGroup="18">
+          <controlProperties>
+            <color>10066329</color>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Label" x="58" y="0" w="244" h="22" measuredW="129" measuredH="21" zOrder="1" locked="false" isInGroup="18">
+          <controlProperties>
+            <bold>false</bold>
+            <color>0</color>
+            <text>%7Bvictims%7D%27s%20%7Bshiptype%7D</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="19" controlTypeID="__group__" x="830" y="296" w="360" h="42" measuredW="360" measuredH="42" zOrder="8" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::HRule" x="0" y="37" w="360" h="-1" measuredW="100" measuredH="5" zOrder="0" locked="false" isInGroup="19">
+          <controlProperties>
+            <color>10066329</color>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Label" x="58" y="0" w="302" h="22" measuredW="71" measuredH="21" zOrder="1" locked="false" isInGroup="19">
+          <controlProperties>
+            <bold>false</bold>
+            <color>0</color>
+            <text>Single%20Item</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="20" controlTypeID="__group__" x="830" y="349" w="360" h="42" measuredW="360" measuredH="42" zOrder="9" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::HRule" x="0" y="37" w="360" h="5" measuredW="100" measuredH="5" zOrder="0" locked="false" isInGroup="20">
+          <controlProperties>
+            <color>10066329</color>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Label" x="58" y="0" w="302" h="22" measuredW="71" measuredH="21" zOrder="1" locked="false" isInGroup="20">
+          <controlProperties>
+            <bold>false</bold>
+            <color>0</color>
+            <text>Single%20Item</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="21" controlTypeID="com.balsamiq.mockups::RoundButton" x="830" y="334" w="55" h="54" measuredW="32" measuredH="32" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderColor>10066329</borderColor>
+        <color>10066329</color>
+        <icon>ContactIcon%7Csmall</icon>
+        <shape>rectangle</shape>
+      </controlProperties>
+    </control>
+    <control controlID="22" controlTypeID="com.balsamiq.mockups::RoundButton" x="830" y="234" w="55" h="54" measuredW="32" measuredH="32" zOrder="11" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderColor>10066329</borderColor>
+        <color>10066329</color>
+        <icon>ContactIcon%7Csmall</icon>
+        <shape>rectangle</shape>
+      </controlProperties>
+    </control>
+    <control controlID="23" controlTypeID="com.balsamiq.mockups::RoundButton" x="830" y="284" w="55" h="54" measuredW="32" measuredH="32" zOrder="12" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderColor>10066329</borderColor>
+        <color>10066329</color>
+        <icon>ContactIcon%7Csmall</icon>
+        <shape>rectangle</shape>
+      </controlProperties>
+    </control>
+    <control controlID="24" controlTypeID="com.balsamiq.mockups::Label" x="891" y="260" w="-1" h="-1" measuredW="110" measuredH="21" zOrder="13" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>6710886</color>
+        <text>05/29/2012%2019%3A51</text>
+      </controlProperties>
+    </control>
+    <control controlID="25" controlTypeID="com.balsamiq.mockups::Tooltip" x="765" y="234" w="-1" h="-1" measuredW="79" measuredH="33" zOrder="16" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Victim</text>
+        <tooltipDirection>SE</tooltipDirection>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

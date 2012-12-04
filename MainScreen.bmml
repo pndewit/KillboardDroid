@@ -1,0 +1,110 @@
+<mockup version="1.0" skin="sketch" measuredW="1190" measuredH="739" mockupW="360" mockupH="600">
+  <controls>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::Canvas" x="830" y="139" w="360" h="600" measuredW="100" measuredH="70" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <backgroundAlpha>0</backgroundAlpha>
+      </controlProperties>
+    </control>
+    <control controlID="8" controlTypeID="com.balsamiq.mockups::Component" x="830" y="139" w="360" h="25" measuredW="360" measuredH="25" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/Android%204%20Controls.bmml#ga-navbar1</src>
+      </controlProperties>
+    </control>
+    <control controlID="10" controlTypeID="__group__" x="830" y="212" w="360" h="179" measuredW="360" measuredH="179" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <controlName>ga-list</controlName>
+      </controlProperties>
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::Label" x="0" y="0" w="360" h="22" measuredW="92" measuredH="21" zOrder="0" locked="false" isInGroup="10">
+          <controlProperties>
+            <bold>true</bold>
+            <color>6710886</color>
+            <text>KillboardDroid</text>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::HRule" x="0" y="22" w="360" h="-1" measuredW="100" measuredH="5" zOrder="1" locked="false" isInGroup="10">
+          <controlProperties>
+            <color>3355443</color>
+          </controlProperties>
+        </control>
+        <control controlID="2" controlTypeID="__group__" x="0" y="34" w="360" h="42" measuredW="360" measuredH="42" zOrder="2" locked="false" isInGroup="10">
+          <groupChildrenDescriptors>
+            <control controlID="0" controlTypeID="com.balsamiq.mockups::HRule" x="0" y="37" w="360" h="-1" measuredW="100" measuredH="5" zOrder="0" locked="false" isInGroup="2">
+              <controlProperties>
+                <color>10066329</color>
+              </controlProperties>
+            </control>
+            <control controlID="1" controlTypeID="com.balsamiq.mockups::Label" x="58" y="0" w="302" h="22" measuredW="71" measuredH="21" zOrder="1" locked="false" isInGroup="2">
+              <controlProperties>
+                <bold>false</bold>
+                <color>0</color>
+                <text>Single%20Item</text>
+              </controlProperties>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+        <control controlID="3" controlTypeID="__group__" x="0" y="84" w="360" h="42" measuredW="360" measuredH="42" zOrder="3" locked="false" isInGroup="10">
+          <groupChildrenDescriptors>
+            <control controlID="0" controlTypeID="com.balsamiq.mockups::HRule" x="0" y="37" w="360" h="-1" measuredW="100" measuredH="5" zOrder="0" locked="false" isInGroup="3">
+              <controlProperties>
+                <color>10066329</color>
+              </controlProperties>
+            </control>
+            <control controlID="1" controlTypeID="com.balsamiq.mockups::Label" x="58" y="0" w="302" h="22" measuredW="71" measuredH="21" zOrder="1" locked="false" isInGroup="3">
+              <controlProperties>
+                <bold>false</bold>
+                <color>0</color>
+                <text>Single%20Item</text>
+              </controlProperties>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+        <control controlID="4" controlTypeID="__group__" x="0" y="137" w="360" h="42" measuredW="360" measuredH="42" zOrder="4" locked="false" isInGroup="10">
+          <groupChildrenDescriptors>
+            <control controlID="0" controlTypeID="com.balsamiq.mockups::HRule" x="0" y="37" w="360" h="5" measuredW="100" measuredH="5" zOrder="0" locked="false" isInGroup="4">
+              <controlProperties>
+                <color>10066329</color>
+              </controlProperties>
+            </control>
+            <control controlID="1" controlTypeID="com.balsamiq.mockups::Label" x="58" y="0" w="302" h="22" measuredW="71" measuredH="21" zOrder="1" locked="false" isInGroup="4">
+              <controlProperties>
+                <bold>false</bold>
+                <color>0</color>
+                <text>Single%20Item</text>
+              </controlProperties>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+        <control controlID="9" controlTypeID="com.balsamiq.mockups::RoundButton" x="0" y="122" w="55" h="54" measuredW="32" measuredH="32" zOrder="5" locked="false" isInGroup="10">
+          <controlProperties>
+            <borderColor>10066329</borderColor>
+            <color>10066329</color>
+            <icon>ContactIcon%7Csmall</icon>
+            <shape>rectangle</shape>
+          </controlProperties>
+        </control>
+        <control controlID="10" controlTypeID="com.balsamiq.mockups::RoundButton" x="0" y="22" w="55" h="54" measuredW="32" measuredH="32" zOrder="6" locked="false" isInGroup="10">
+          <controlProperties>
+            <borderColor>10066329</borderColor>
+            <color>10066329</color>
+            <icon>ContactIcon%7Csmall</icon>
+            <shape>rectangle</shape>
+          </controlProperties>
+        </control>
+        <control controlID="11" controlTypeID="com.balsamiq.mockups::RoundButton" x="0" y="72" w="55" h="54" measuredW="32" measuredH="32" zOrder="7" locked="false" isInGroup="10">
+          <controlProperties>
+            <borderColor>10066329</borderColor>
+            <color>10066329</color>
+            <icon>ContactIcon%7Csmall</icon>
+            <shape>rectangle</shape>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="11" controlTypeID="com.balsamiq.mockups::Component" x="830" y="164" w="360" h="48" measuredW="360" measuredH="48" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/Android%204%20Controls.bmml#ga-action-bar-split2</src>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>
