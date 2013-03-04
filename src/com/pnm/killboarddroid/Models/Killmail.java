@@ -30,7 +30,7 @@ public class Killmail {
 		for(int i = 0; i < attackers.getLength(); ++i) {
 			Attacker attacker = new Attacker((Element) attackers.item(i));
 			
-			Log.i("MODELS_KILLMAIL_DEBUG", "" + attackers.item(i));
+			Log.i("MODELS_KILLMAIL_DEBUG", "Attacker " + (i + 1) + ": " + ((Element) attackers.item(i)).getAttributeNode("characterName").getNodeValue());
 			this.killers.add(attacker);
 		}
 	}

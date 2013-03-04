@@ -86,13 +86,13 @@ public class MainActivity extends Activity {
 	            }
 	        });*/
 			
-			Element e = (Element) victims.item(0);
+			/*Element e = (Element) victims.item(0);
 			String cID = e.getAttribute("characterID");
 			
-			//TextView txt = (TextView) findViewById(R.id.xmlView);
-			//txt.setText(xml + "\n\nCharacter ID: " + cID + "\nGetting image from: " + "http://image.eveonline.com/Character/" + cID + "_512.jpg");
+			TextView txt = (TextView) findViewById(R.id.xmlView);
+			txt.setText(xml + "\n\nCharacter ID: " + cID + "\nGetting image from: " + "http://image.eveonline.com/Character/" + cID + "_512.jpg");
 			
-			//new RequestBitmap().execute("http://image.eveonline.com/Character/" + cID + "_512.jpg");
+			new RequestBitmap().execute("http://image.eveonline.com/Character/" + cID + "_512.jpg");*/
 		}
 	}
 	

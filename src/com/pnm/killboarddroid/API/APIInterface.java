@@ -49,7 +49,7 @@ public class APIInterface {
 		
 		//APIRequest request = new APIRequest(URL, params);
 		
-		APIRequest request = new APIRequest("http://localhost:8080/eve-kill.net.xml?", params);
+		APIRequest request = new APIRequest("http://192.168.0.15:8080/eve-kill.net.xml?", params);
 		
 		try {
 			String result = new RequestXML().execute(request).get();
