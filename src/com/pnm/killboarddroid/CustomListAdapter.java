@@ -58,7 +58,7 @@ public class CustomListAdapter extends BaseAdapter {
         TextView title = (TextView) vi.findViewById(R.id.title); // title
         TextView subtitle = (TextView) vi.findViewById(R.id.subtitle); // subtitle
         TextView corporation = (TextView) vi.findViewById(R.id.corporation); // corporation
-        ImageView thumb_image = (ImageView) vi.findViewById(R.id.list_image); // thumb image
+        ImageView thumb_image = (ImageView) vi.findViewById(R.id.kill_image); // thumb image
         
         Element victim = (Element) data.get(position).getChildNodes().item(1);
         Element loadout = (Element) data.get(position).getChildNodes().item(5);
